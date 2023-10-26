@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Eletric Car App</string>
+    <string name="txt_menu_home">Home</string>
+    <string name="txt_menu_favorite">Favorite</string>
+    <string name="no_wifi">Ops! Sem conexão com a Internet.</string>
+    <string name="no_load_list">Falha ao carregar sua lista! Tente novamente mais tarde!</string>
 </resources>
